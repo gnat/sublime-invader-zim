@@ -11,6 +11,6 @@
 2. Rename to **Monokai.sublime-color-scheme**
 3. Preferences -> Select Color Scheme -> Monokai
 
-☢️ These funky installation steps are required because Sublime Text 4 does not yet support color scheme extensions! ☢️
+☢️ These funky installation steps are required because Sublime Text 4 does not yet support color scheme extensions!
 
 Enjoy!
