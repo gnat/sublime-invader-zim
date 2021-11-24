@@ -16,7 +16,7 @@
 
 Enjoy!
 
-## Sceenshot Gallery
+## Screenshot Gallery
 
 ### Yaml
 ![image](https://user-images.githubusercontent.com/24665/143310851-7ba24308-e0a1-4b13-a7f1-91e60b829015.png)
