@@ -1,4 +1,4 @@
-# 👻 Ghostbusters • Dark Color Theme for Sublime Text 4
+# 👻 Ghostbusters • Dark Color Theme for Sublime Text
 
 * Based on Monokai Dark, with less yellows, more minty greens 🎄
 * Just a changeset on top of the popular default theme.
