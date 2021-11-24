@@ -2,6 +2,7 @@
 
 * Based on Monokai Dark, with less yellows, more minty greens 🎄
 * Just a changeset on top of the popular default theme.
+* Similar to: Dracula, SynthWave 84, One Monokai 80s
 
 ![image](https://user-images.githubusercontent.com/24665/143184076-fddcdaa5-bed1-4314-bb27-897dca1ad4c4.png)
 
