@@ -8,7 +8,7 @@
 
 🚨 Install Instructions
 
-1. Add **Ghostbusters.sublime-color-scheme** to **~/.config/sublime-text-3/Packages/User/**
+1. Add **Ghostbusters.sublime-color-scheme** to **~/.config/sublime-text/Packages/User/**
 2. Rename to **Monokai.sublime-color-scheme**
 3. Preferences -> Select Color Scheme -> Monokai
 
