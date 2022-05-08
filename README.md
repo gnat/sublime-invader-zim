@@ -8,7 +8,7 @@
 
 🚨 Install Instructions
 
-Direct: `Preferences` ➡️ `Browse Packages ...` ➡️ `cd User` ➡️ [Download and extract the latest.](https://github.com/gnat/hyperscript-sublime/archive/refs/heads/main.zip)
+Direct: `Preferences` ➡️ `Browse Packages ...` ➡️ `cd User` ➡️ [Download and extract the latest.](https://github.com/gnat/sublime-ghostbusters/archive/refs/heads/main.zip)
 
 ## Special Features
 
