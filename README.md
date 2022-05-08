@@ -10,6 +10,8 @@
 
 Direct: `Preferences` ➡️ `Browse Packages ...` ➡️ `cd User` ➡️ [Download and extract the latest.](https://github.com/gnat/sublime-ghostbusters/archive/refs/heads/main.zip)
 
+Use it: `Preferences` ➡️ `Select Color Scheme...` ➡️ `Ghostbusters`
+
 ## Special Features
 
 First class support for:
