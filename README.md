@@ -2,19 +2,22 @@
 
 * Based on Monokai Dark, with less yellows, more minty greens 🎄
 * Just a changeset on top of the popular default theme, should look great on most languages.
-* Similar to: Dracula, SynthWave 84, One Monokai 80s
+* Similar to: Dracula, SynthWave 84, One Monokai, 80's, Synth, Space, Night, Black, Dark, Neon
 
 ![image](https://user-images.githubusercontent.com/24665/143184076-fddcdaa5-bed1-4314-bb27-897dca1ad4c4.png)
 
 🚨 Install Instructions
 
-1. Add **Ghostbusters.sublime-color-scheme** to **~/.config/sublime-text/Packages/User/**
-2. Rename to **Monokai.sublime-color-scheme**
-3. Preferences -> Select Color Scheme -> Monokai
+Direct: `Preferences` ➡️ `Browse Packages ...` ➡️ `cd User` ➡️ [Download and extract the latest.](https://github.com/gnat/hyperscript-sublime/archive/refs/heads/main.zip)
 
-☢️ These funky installation steps are required because Sublime Text 4 does not yet support color scheme extensions!
+## Special Features
 
-Enjoy!
+First class support for:
+
+* [hyperscript](https://hyperscript.org/) and [htmx](https://htmx.org/).
+* Python.
+* Markdown.
+* And many many more!
 
 ## Screenshot Gallery
 
