@@ -29,7 +29,7 @@
         // Remove yellow tint from black/white.
         "black":  "hsl(0, 0%, 0%)",
         "black1": "hsl(0, 0%, 5%)",
-        "black2": "hsl(0, 0%, 11%)",
+        "black2": "hsl(0, 0%, 10%)",
         "black3": "hsl(0, 0%, 13%)",
         "white":  "hsl(0, 0%, 98%)",
         "white2": "hsl(0, 0%, 96%)",
