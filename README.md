@@ -16,7 +16,7 @@ Use it: `Preferences` ➡️ `Select Color Scheme...` ➡️ `Invader Zim`
 
 First class support for:
 
-* [hyperscript](https://hyperscript.org/) and [htmx](https://htmx.org/).
+* [hyperscript](https://hyperscript.org/) and [htmx](https://htmx.org/). ([Get the plugin](https://github.com/gnat/hyperscript-sublime)!)
 * Python.
 * Javascript.
 * HTML, CSS.
@@ -29,7 +29,7 @@ First class support for:
 ### HTML + Javascript
 ![javascript](https://user-images.githubusercontent.com/24665/167426294-08a4361c-17ab-44da-9354-8abce101cb39.png)
 
-### HTML + Hyperscript
+### HTML + Hyperscript ([Get the plugin](https://github.com/gnat/hyperscript-sublime)!)
 ![hyper](https://user-images.githubusercontent.com/24665/167426357-18312026-d38b-4622-b5b1-84c7e31a123b.png)
 
 ### HTML
