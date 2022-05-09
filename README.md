@@ -26,11 +26,11 @@ First class support for:
 
 ## Screenshot Gallery
 
-### HTML + Javascript
-![javascript](https://user-images.githubusercontent.com/24665/167426294-08a4361c-17ab-44da-9354-8abce101cb39.png)
-
 ### HTML + Hyperscript ([Get the plugin](https://github.com/gnat/hyperscript-sublime)!)
 ![hyper](https://user-images.githubusercontent.com/24665/167426357-18312026-d38b-4622-b5b1-84c7e31a123b.png)
+
+### HTML + Javascript
+![javascript](https://user-images.githubusercontent.com/24665/167440416-38187c55-18aa-43d1-ba84-5229084dd238.png)
 
 ### HTML
 
