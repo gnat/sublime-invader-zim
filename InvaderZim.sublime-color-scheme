@@ -1,6 +1,6 @@
 // Originally based on Monokai. Should always be re-based on Monokai.
 {
-    "name": "InvaderZim",
+    "name": "Invader Zim",
     // "extends": "Monokai.sublime-color-scheme", // Not yet supported in Sublime Text.
     "variables":
     {
