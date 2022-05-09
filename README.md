@@ -33,6 +33,10 @@ First class support for:
 ### HTML + Hyperscript
 ![hyper](https://user-images.githubusercontent.com/24665/167426357-18312026-d38b-4622-b5b1-84c7e31a123b.png)
 
+### HTML
+
+![html](https://user-images.githubusercontent.com/24665/167432768-2aa0fb16-fd07-4937-9a3e-33c77990ec89.png)
+
 ### Markdown
 ![markdown](https://user-images.githubusercontent.com/24665/167426262-013c04d1-eece-4710-a6af-ddaaa0d0d528.png)
 
