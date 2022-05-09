@@ -4,7 +4,7 @@
 * Great separation of Javascript / Hyperscript and other languages embedded in HTML!
 * Similar to: Dracula, SynthWave 84, One Monokai, 80's, Synth, Space, Night, Black, Dark, Neon.
 
-## Screenshot Gallery 
+## Screenshots
 
 ### Python 🐍
 ![Screenshot for Python](https://user-images.githubusercontent.com/24665/167426139-ffc52d17-1c16-44f4-8aa1-31830fa99ed7.png)
@@ -28,7 +28,20 @@ Direct: `Preferences` ➡️ `Browse Packages ...` ➡️ `cd User` ➡️ [Down
 
 Use it: `Preferences` ➡️ `Select Color Scheme...` ➡️ `Invader Zim`
 
-## Notes 
+## Special Features
+
+First class support for:
+
+* [hyperscript](https://hyperscript.org/) and [htmx](https://htmx.org/). ([Get the plugin](https://github.com/gnat/hyperscript-sublime)!)
+* Python.
+* Javascript.
+* HTML, CSS.
+* YAML.
+* Markdown.
+* And many many more!
+
+
+
 
 ### Settings used for Screenshots
 
