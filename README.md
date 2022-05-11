@@ -4,6 +4,10 @@
 * Great separation of Javascript / Hyperscript and other languages embedded in HTML!
 * Similar to: Dracula, SynthWave 84, One Monokai, 80's, Synth, Space, Night, Black, Dark, Neon.
 
+
+![image](https://user-images.githubusercontent.com/24665/167754940-c629dded-4558-4aff-9775-0148669345b9.png)
+(art by [Quarter-Virus](https://www.deviantart.com/quarter-virus/art/A-FLORPUS-MORTY-811503094))
+
 ## Screenshots
 
 ### Python 🐍
@@ -40,8 +44,9 @@ First class support for:
 * Markdown.
 * And many many more!
 
+### Enjoy!
 
-
+![out](https://user-images.githubusercontent.com/24665/167758404-546c0d53-e1e8-4f24-b9f8-8e05f10270e1.gif)
 
 ### Settings used for Screenshots
 
