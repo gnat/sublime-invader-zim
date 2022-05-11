@@ -1,6 +1,6 @@
-# 🛸 Invader Zim • Dark Color Theme for Sublime Text
+# 🛸 Invader Zim • Dark Color Scheme for Sublime Text
 
-* Perfection for people who enjoy minty greens 🎄 deep purples and neon pink.
+* Perfection for people who enjoy themes of minty greens 🎄 deep purples and neon pink.
 * Great separation of Javascript / Hyperscript and other languages embedded in HTML!
 * Similar to: Dracula, SynthWave 84, One Monokai, Monokai Dark, 80's, Synth, Space, Night, Black, Dark, Neon.
 
