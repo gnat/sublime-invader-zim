@@ -1,12 +1,17 @@
 # 🛸 Invader Zim • Dark Color Scheme for Sublime Text
-
 * Perfection for people who enjoy themes of minty greens 🎄 deep purples and neon pink.
 * Great separation of Javascript / Hyperscript and other languages embedded in HTML!
 * Similar to: Dracula, SynthWave 84, One Monokai, Monokai Dark, 80's, Synth, Space, Night, Black, Dark, Neon.
 
-
 ![image](https://user-images.githubusercontent.com/24665/167754940-c629dded-4558-4aff-9775-0148669345b9.png)
 (art by [Quarter-Virus](https://www.deviantart.com/quarter-virus/art/A-FLORPUS-MORTY-811503094))
+
+<a href="https://github.com/gnat/sublime-invader-zim/tags">
+    <img src="https://img.shields.io/github/v/tag/gnat/sublime-invader-zim?label=release&style=for-the-badge&color=%23810e74" /></a>
+<a href="https://packagecontrol.io/packages/Invader%20Zim%20Color%20Scheme">
+    <img src="https://img.shields.io/packagecontrol/dt/Invader%20Zim%20Color%20Scheme?style=for-the-badge&color=%2315b713" /></a>
+<a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/Only%20For-Sublime-ff9800?logo=sublime%20text&style=for-the-badge" /></a>
 
 ## Screenshots
 
