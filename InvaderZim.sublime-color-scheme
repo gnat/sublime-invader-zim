@@ -72,8 +72,8 @@
         "highlight": "var(orange)",
         "find_highlight_foreground": "var(orange)",
         "find_highlight": "var(black)",
-        "scroll_highlight": "var(orange)",
-        "scroll_selected_highlight": "var(orange)",
+        "scroll_highlight": "color(var(white2) alpha(0.7))",
+        "scroll_selected_highlight": "color(var(white2) alpha(0.7))",
 
         //"brackets_options": "glow",
         //"brackets_foreground": "color(var(white))",
