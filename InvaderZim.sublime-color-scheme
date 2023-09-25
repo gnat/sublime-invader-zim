@@ -86,6 +86,8 @@
         "gutter": "var(black1)",
         "gutter_foreground": "var(grey5)",
         "gutter_foreground_highlight": "var(white)",
+
+        "fold_marker": "color(var(minty) alpha(0.8))",
     },
     "rules":
     [
